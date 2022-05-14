@@ -1,0 +1,4 @@
+#Thu Apr 21 11:29:34 BDT 2022
+base.0=R\:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

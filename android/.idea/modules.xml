@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2055521158/android.flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/2055521158/android.flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/718795592/android.flutter_native_timezone.iml" filepath="$PROJECT_DIR$/.idea/modules/718795592/android.flutter_native_timezone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/591870956/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/591870956/android.path_provider_android.iml" />
+    </modules>
+  </component>
+</project>

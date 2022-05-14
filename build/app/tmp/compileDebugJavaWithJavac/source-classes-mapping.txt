@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/daily_reminder/MainActivity.java
+ com.example.daily_reminder.MainActivity
+com/example/daily_reminder/BuildConfig.java
+ com.example.daily_reminder.BuildConfig

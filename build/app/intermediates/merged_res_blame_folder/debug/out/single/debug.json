@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\raw_notification.mp3.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "R:\\Projects\\Flutter\\daily_reminder\\build\\app\\intermediates\\res\\merged\\debug\\drawable_reminder.png.flat",
+        "source": "R:\\Projects\\Flutter\\daily_reminder\\android\\app\\src\\main\\res\\drawable\\reminder.png"
+    }
+]
